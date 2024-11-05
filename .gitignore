@@ -1,0 +1,13 @@
+
+\.env
+
+docker/nginx/logs/error\.log
+
+docker/nginx/logs/access\.log
+
+/docker/postgres/*
+
+docs/
+
+\.idea/
+tracker/vendor

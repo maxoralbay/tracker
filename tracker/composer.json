@@ -1,0 +1,17 @@
+{
+    "name": "tracker/app",
+    "description": "Tracker user clients data and form user",
+    "type": "project",
+    "license": "None",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maxoralbay"
+        }
+    ],
+    "require": {}
+}
